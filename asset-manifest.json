@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lilkin_shop/static/css/main.7acaea2f.css",
+    "main.js": "/lilkin_shop/static/js/main.cf169156.js",
+    "index.html": "/lilkin_shop/index.html",
+    "main.7acaea2f.css.map": "/lilkin_shop/static/css/main.7acaea2f.css.map",
+    "main.cf169156.js.map": "/lilkin_shop/static/js/main.cf169156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.cf169156.js"
+  ]
+}
